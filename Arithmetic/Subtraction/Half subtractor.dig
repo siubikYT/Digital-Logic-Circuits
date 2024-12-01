@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>XOr</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1000" y="100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1000" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>A</string>
+        </entry>
+      </elementAttributes>
+      <pos x="920" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>B</string>
+        </entry>
+      </elementAttributes>
+      <pos x="920" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Difference</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1100" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>C</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1100" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1120" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+      </elementAttributes>
+      <pos x="960" y="160"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="940" y="100"/>
+      <p2 x="960" y="100"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="100"/>
+      <p2 x="1000" y="100"/>
+    </wire>
+    <wire>
+      <p1 x="980" y="180"/>
+      <p2 x="1000" y="180"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="120"/>
+      <p2 x="1140" y="120"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="200"/>
+      <p2 x="1140" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="940" y="140"/>
+      <p2 x="980" y="140"/>
+    </wire>
+    <wire>
+      <p1 x="980" y="140"/>
+      <p2 x="1000" y="140"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="220"/>
+      <p2 x="1000" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="100"/>
+      <p2 x="960" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="960" y="200"/>
+      <p2 x="960" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="980" y="140"/>
+      <p2 x="980" y="180"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
