@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1600" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1700" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1600" y="380"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1700" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1600" y="480"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1700" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1600" y="580"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1700" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes/>
+      <pos x="1500" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes/>
+      <pos x="1400" y="220"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>S</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1360" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1380" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>S</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1460" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1480" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Input</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1280" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Out</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1820" y="600"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="500"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>14</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1860" y="600"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="1380" y="480"/>
+      <p2 x="1600" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="320"/>
+      <p2 x="1820" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1340" y="320"/>
+      <p2 x="1400" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1440" y="320"/>
+      <p2 x="1600" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1400" y="320"/>
+      <p2 x="1420" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1420" y="320"/>
+      <p2 x="1440" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="640"/>
+      <p2 x="1700" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="1440" y="420"/>
+      <p2 x="1600" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="420"/>
+      <p2 x="1820" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="1380" y="580"/>
+      <p2 x="1600" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="1420" y="520"/>
+      <p2 x="1600" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="520"/>
+      <p2 x="1820" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="1680" y="300"/>
+      <p2 x="1700" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1400" y="620"/>
+      <p2 x="1600" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="1780" y="620"/>
+      <p2 x="1820" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="1680" y="400"/>
+      <p2 x="1700" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="1680" y="500"/>
+      <p2 x="1700" y="500"/>
+    </wire>
+    <wire>
+      <p1 x="1460" y="340"/>
+      <p2 x="1700" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="1680" y="600"/>
+      <p2 x="1700" y="600"/>
+    </wire>
+    <wire>
+      <p1 x="1460" y="440"/>
+      <p2 x="1700" y="440"/>
+    </wire>
+    <wire>
+      <p1 x="1560" y="280"/>
+      <p2 x="1600" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1540" y="220"/>
+      <p2 x="1560" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1440" y="220"/>
+      <p2 x="1460" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="220"/>
+      <p2 x="1500" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1380" y="220"/>
+      <p2 x="1400" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="380"/>
+      <p2 x="1600" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="1560" y="540"/>
+      <p2 x="1700" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="1440" y="320"/>
+      <p2 x="1440" y="420"/>
+    </wire>
+    <wire>
+      <p1 x="1380" y="200"/>
+      <p2 x="1380" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1380" y="220"/>
+      <p2 x="1380" y="480"/>
+    </wire>
+    <wire>
+      <p1 x="1380" y="480"/>
+      <p2 x="1380" y="580"/>
+    </wire>
+    <wire>
+      <p1 x="1460" y="220"/>
+      <p2 x="1460" y="340"/>
+    </wire>
+    <wire>
+      <p1 x="1460" y="340"/>
+      <p2 x="1460" y="440"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="200"/>
+      <p2 x="1480" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="220"/>
+      <p2 x="1480" y="380"/>
+    </wire>
+    <wire>
+      <p1 x="1480" y="380"/>
+      <p2 x="1480" y="640"/>
+    </wire>
+    <wire>
+      <p1 x="1560" y="220"/>
+      <p2 x="1560" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1560" y="280"/>
+      <p2 x="1560" y="540"/>
+    </wire>
+    <wire>
+      <p1 x="1400" y="320"/>
+      <p2 x="1400" y="620"/>
+    </wire>
+    <wire>
+      <p1 x="1420" y="320"/>
+      <p2 x="1420" y="520"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
