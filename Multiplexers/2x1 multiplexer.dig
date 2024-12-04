@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1100" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>And</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1100" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1220" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Not</elementName>
+      <elementAttributes/>
+      <pos x="1040" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Selection</string>
+        </entry>
+      </elementAttributes>
+      <pos x="900" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Input</string>
+        </entry>
+      </elementAttributes>
+      <pos x="940" y="180"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Input</string>
+        </entry>
+      </elementAttributes>
+      <pos x="940" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Description</string>
+          <string>Output</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1320" y="240"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="1000" y="320"/>
+      <p2 x="1100" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="1200" y="240"/>
+      <p2 x="1220" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="1080" y="240"/>
+      <p2 x="1100" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="240"/>
+      <p2 x="1040" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="260"/>
+      <p2 x="1020" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1300" y="260"/>
+      <p2 x="1320" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1000" y="200"/>
+      <p2 x="1100" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="1200" y="280"/>
+      <p2 x="1220" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="280"/>
+      <p2 x="1100" y="280"/>
+    </wire>
+    <wire>
+      <p1 x="1180" y="300"/>
+      <p2 x="1200" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1180" y="220"/>
+      <p2 x="1200" y="220"/>
+    </wire>
+    <wire>
+      <p1 x="1200" y="220"/>
+      <p2 x="1200" y="240"/>
+    </wire>
+    <wire>
+      <p1 x="1200" y="280"/>
+      <p2 x="1200" y="300"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="240"/>
+      <p2 x="1020" y="260"/>
+    </wire>
+    <wire>
+      <p1 x="1020" y="260"/>
+      <p2 x="1020" y="280"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>
